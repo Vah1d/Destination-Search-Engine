@@ -30,8 +30,8 @@ At this point, you should have all the HTML documents about the places of intere
 
 Place Name (to save as placeName): String.
 Place Tags (to save as placeTags): List of Strings.
-# of people who have been there (to save as numPeopleVisited): Integer.
-# of people who want to visit the place(to save as numPeopleWant): Integer.
+of people who have been there (to save as numPeopleVisited): Integer.
+of people who want to visit the place(to save as numPeopleWant): Integer.
 Description (to save as placeDesc): String. Everything from under the first image up to "know before you go" (orange frame on the example image).
 Short Description (to save as placeShortDesc): String. Everything from the title and location up to the image (blue frame on the example image).
 Nearby Places (to save as placeNearby): Extract the names of all nearby places, but only keep unique values: List of Strings.
